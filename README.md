@@ -5,5 +5,5 @@ Link - https://frontendmasters.com/courses/getting-started-css/
 
 Good course to understand how we should think about building a webpage by breaking the problem into several small pieces. 
 
-Courses on frontend masters are really good and anyone new to development must check it out. 
+Courses on frontend masters are really good and anyone new to development must check them out. 
 link - https://frontendmasters.com/dashboard/
